@@ -7,6 +7,12 @@
     <groupId>com.erouniversity</groupId>
     <artifactId>MessageBroker</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>generator</module>
+        <module>logger</module>
+    </modules>
 
     <build>
         <plugins>
