@@ -1,3 +1,5 @@
+package com.erouniversity;
+
 import java.io.IOException;
 
 public class Main {

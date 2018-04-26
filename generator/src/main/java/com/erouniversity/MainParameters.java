@@ -1,3 +1,5 @@
+package com.erouniversity;
+
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.ParameterException;
 

@@ -1,3 +1,5 @@
+package com.erouniversity;
+
 import com.beust.jcommander.Parameter;
 
 public class Parameters {
